@@ -1,1 +1,1 @@
-*/Dit wordt het allereerste project van TOP ever. Bear with me. Ik ga de Google homepage namaken, zonder fancy footwork. In de praktijk ga ik gebruiken: HTML en CSS. /* 
+*/This will be the first project of TOP ever. Bear with me. I am going to build the Google homepage somewhat. I will make use of: HTML and CSS. /* 
